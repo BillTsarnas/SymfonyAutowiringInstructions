@@ -12,6 +12,7 @@ a Factory service that exposes them to the rest of the services.
 ## Http kernel and YAML setup
 
  - Require the following packages to the project:
+    * `composer require symfony/dependency-injection`
     * `composer require symfony/http-kernel`
     *  `composer require symfony/config`
     * `composer require symfony/yaml`
